@@ -4,7 +4,7 @@ from plexapi.exceptions import NotFound
 
 # Radarr configuration
 RADARR_URL = "YOUR_RADARR_URL"
-RADARR_API_KEY = "YOUR_RADARR_API
+RADARR_API_KEY = "YOUR_RADARR_API"
 
 # Plex configuration
 PLEX_URL = "YOUR_PLEX_URL"
